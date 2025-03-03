@@ -7,7 +7,7 @@ function NWD($a,$b){
     }
     return $a;
 }
-
+asd
 function suma($liczba){
     $suma = 0;
     while($liczba > 0){
